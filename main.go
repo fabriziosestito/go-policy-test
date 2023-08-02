@@ -6,6 +6,7 @@ import (
 	wapc "github.com/wapc/wapc-guest-tinygo"
 )
 
+// test
 var (
 	logWriter = kubewarden.KubewardenLogWriter{}
 	logger    = onelog.New(
