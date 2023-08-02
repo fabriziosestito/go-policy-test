@@ -3,4 +3,4 @@ name: Continuous integration
 jobs:
   test:
     name: run tests and linters
-    uses: fabriziosestito/github-actions/.github/workflows/reusable-test-policy-go.yml@14215f7c9f6c31b7d0cd38805b9b10629f99940b
+    uses: fabriziosestito/github-actions/.github/workflows/reusable-test-policy-go.yml@64fd66a18feba9b25fbbf6302a0dd2b4936578c1
